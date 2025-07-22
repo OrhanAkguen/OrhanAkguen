@@ -1,29 +1,29 @@
-# Hi there 👋 I'm Orhan Akgün
+# Orhan Akgün – Software Developer
 
-🎓 **Certified Computer Science Specialist – Application Development (Germany)**  
-💻 **Application Developer** | C#, HTML/CSS, Python, Angular  
-📈 Enthusiast in Clean Code, Performance & Software Architecture
+🎓 **Certified Computer Science Specialist – Software Development (Germany)**  
+💻 **Software & Web Developer** | C#, HTML/CSS, Python, Angular, WordPress
+📈 Focused on writing scalable, maintainable, and efficient code
 
 ---
 
 ## 🧠 About Me
 
-I'm a certified software developer (Germany: *Fachinformatiker Anwendungsentwicklung*) with hands-on experience in building efficient, maintainable, and user-friendly applications – both desktop-based and web-based.
+I'm a certified software developer (Germany: Fachinformatiker Anwendungsentwicklung) with hands-on experience in building efficient, maintainable, and user-friendly applications – both desktop-based and web-based, including custom WordPress plugin development and full-stack web solutions.
 
-My strength lies in combining a solid software architecture with clean user interfaces and performance-aware development practices.
+I aim to create well-structured, performance-conscious solutions that balance architecture, usability, and maintainability.
 
 ---
 
 ## 🔧 Skills & Tech Stack
 
 - 💻 **Languages & Frameworks:**  
-  C#, HTML5, CSS3, Python, JavaScript, Angular, SQL
+  C#, HTML5, CSS3, Python, JavaScript, Angular, PHP, SQL
 
 - 🧰 **Tools & Environments:**  
-  Visual Studio, Git/GitHub, MSSQL Server, Node.js, Postman
+  Visual Studio, Git/GitHub, MSSQL Server, Node.js, Postman, WordPress, phpMyAdmin
 
 - 🧩 **Concepts:**  
-  OOP, UI/UX principles, REST APIs, Clean Architecture, Agile development, Git workflows
+  OOP, UI/UX principles, REST APIs, maintainable & layered architecture, Agile development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanAkguen&layout=compact)
 
