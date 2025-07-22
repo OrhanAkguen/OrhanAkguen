@@ -2,7 +2,7 @@
 
 🎓 **Certified Computer Science Specialist – Software Development (Germany)**  
 💻 **Software & Web Developer** | C#, HTML/CSS, Python, Angular, WordPress
-📈 Focused on writing scalable, maintainable, and efficient code
+📈 **Focused** on writing scalable, maintainable, and efficient code
 
 ---
 
