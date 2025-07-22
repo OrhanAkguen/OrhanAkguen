@@ -25,6 +25,8 @@ My strength lies in combining a solid software architecture with clean user inte
 - 🧩 **Concepts:**  
   OOP, UI/UX principles, REST APIs, Clean Architecture, Agile development, Git workflows
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanAkguen&layout=compact)
+
 ---
 
 ## 📌 Featured Projects
@@ -46,7 +48,6 @@ My strength lies in combining a solid software architecture with clean user inte
 
 > _“Great software is simple, fast, and built with care.”_
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrhanAkguen&layout=compact)
 <!--
 **OrhanAkguen/OrhanAkguen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
