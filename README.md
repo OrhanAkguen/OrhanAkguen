@@ -1,7 +1,7 @@
 # Orhan Akgün – Software Developer
 
 🎓 **Certified Computer Science Specialist – Software Development (Germany)**  
-💻 **Software & Web Developer** | C#, HTML/CSS, Python, Angular, WordPress  
+💻 **Software & Web Developer** | C#, HTML/CSS, Python, WordPress  
 📈 **Focused** on writing scalable, maintainable, and efficient code
 
 ---
