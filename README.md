@@ -34,7 +34,7 @@ I aim to create well-structured, performance-conscious solutions that balance ar
 - 🏥 [Hospital Management System](https://github.com/OrhanAkguen/hospital-management-and-appointment-system)  
   Windows Forms application with patient data management, appointment booking, doctor assignment, and role-based multi-user access.
 
-- ⏲️ [Sequential Baking Timer](https://github.com/OrhanAkgun/SequentialBakingTimer)  
+- ⏲️ [Sequential Baking Timer](https://github.com/OrhanAkguen/SequentialBakingTimer)  
   C# timer app simulating sequential baking phases using progress bars and color-changing visual feedback.
 
 ---
